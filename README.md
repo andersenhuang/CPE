@@ -1,1 +1,1 @@
-# GPE
+# Collegiate Programming Examination
